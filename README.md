@@ -1,11 +1,11 @@
 
 # Myntra Clone
-Front-end train schedule application
+Front-end web application
 ## Project Overview
 This is a frontend clone of the popular fashion e-commerce website Myntra. The project is built using HTML, CSS, and JavaScript to replicate the UI and provide a dynamic user experience similar to the original website.
 
 ## Featues
-ome Page: A visually appealing homepage with banners and product sections.
+Home Page: A visually appealing homepage with banners and product sections.
 
 Product Listing Page: Displays products with filtering and sorting options.
 
@@ -27,7 +27,7 @@ Accepts user input to add new train name, start time and frequency to schedule. 
 - JavaScript  - Implementing dynamic features like cart updates and user interactions
 
 
-## View
+
 ## Future Enhancements
 Future Enhancements
 - Integrate a backend using Node.js and Express.js for real user authentication.
@@ -35,4 +35,4 @@ Future Enhancements
 - Add a wishlist feature to save favorite products.
 
 
-![image](https://images/myntraclonescreenshot.jpeg)
+![image](images/myntraclonescreenshot.jpeg)
