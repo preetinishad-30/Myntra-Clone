@@ -1,10 +1,10 @@
-#Myntra Clone
+Myntra Clone
 
-##Project Overview
+Project Overview
 
 This is a frontend clone of the popular fashion e-commerce website Myntra. The project is built using HTML, CSS, and JavaScript to replicate the UI and provide a dynamic user experience similar to the original website.
 
-##Features
+Features
 
 Home Page: A visually appealing homepage with banners and product sections.
 
